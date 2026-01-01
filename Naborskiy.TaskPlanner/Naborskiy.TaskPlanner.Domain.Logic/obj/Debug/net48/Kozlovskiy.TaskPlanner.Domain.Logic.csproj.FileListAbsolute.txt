@@ -1,0 +1,28 @@
+C:\Users\Юля\Desktop\Kozlovskiy.TaskPlanner\Kozlovskiy.TaskPlanner.Domain.Logic\bin\Debug\net48\Kozlovskiy.TaskPlanner.Domain.Logic.dll
+C:\Users\Юля\Desktop\Kozlovskiy.TaskPlanner\Kozlovskiy.TaskPlanner.Domain.Logic\bin\Debug\net48\Kozlovskiy.TaskPlanner.Domain.Logic.pdb
+C:\Users\Юля\Desktop\Kozlovskiy.TaskPlanner\Kozlovskiy.TaskPlanner.Domain.Logic\bin\Debug\net48\Kozlovskiy.TaskPlanner.DataAccess.Abstractions.dll
+C:\Users\Юля\Desktop\Kozlovskiy.TaskPlanner\Kozlovskiy.TaskPlanner.Domain.Logic\bin\Debug\net48\Kozlovskiy.TaskPlanner.Domain.Models.dll
+C:\Users\Юля\Desktop\Kozlovskiy.TaskPlanner\Kozlovskiy.TaskPlanner.Domain.Logic\bin\Debug\net48\Kozlovskiy.TaskPlanner.Domain.Models.pdb
+C:\Users\Юля\Desktop\Kozlovskiy.TaskPlanner\Kozlovskiy.TaskPlanner.Domain.Logic\bin\Debug\net48\Kozlovskiy.TaskPlanner.DataAccess.Abstractions.pdb
+C:\Users\Юля\Desktop\Kozlovskiy.TaskPlanner\Kozlovskiy.TaskPlanner.Domain.Logic\obj\Debug\net48\Kozlovskiy.TaskPlanner.Domain.Logic.csproj.AssemblyReference.cache
+C:\Users\Юля\Desktop\Kozlovskiy.TaskPlanner\Kozlovskiy.TaskPlanner.Domain.Logic\obj\Debug\net48\Kozlovskiy.TaskPlanner.Domain.Logic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Юля\Desktop\Kozlovskiy.TaskPlanner\Kozlovskiy.TaskPlanner.Domain.Logic\obj\Debug\net48\Kozlovskiy.TaskPlanner.Domain.Logic.AssemblyInfoInputs.cache
+C:\Users\Юля\Desktop\Kozlovskiy.TaskPlanner\Kozlovskiy.TaskPlanner.Domain.Logic\obj\Debug\net48\Kozlovskiy.TaskPlanner.Domain.Logic.AssemblyInfo.cs
+C:\Users\Юля\Desktop\Kozlovskiy.TaskPlanner\Kozlovskiy.TaskPlanner.Domain.Logic\obj\Debug\net48\Kozlovskiy.TaskPlanner.Domain.Logic.csproj.CoreCompileInputs.cache
+C:\Users\Юля\Desktop\Kozlovskiy.TaskPlanner\Kozlovskiy.TaskPlanner.Domain.Logic\obj\Debug\net48\Kozlovsk.EB703311.Up2Date
+C:\Users\Юля\Desktop\Kozlovskiy.TaskPlanner\Kozlovskiy.TaskPlanner.Domain.Logic\obj\Debug\net48\Kozlovskiy.TaskPlanner.Domain.Logic.dll
+C:\Users\Юля\Desktop\Kozlovskiy.TaskPlanner\Kozlovskiy.TaskPlanner.Domain.Logic\obj\Debug\net48\Kozlovskiy.TaskPlanner.Domain.Logic.pdb
+C:\Users\Юля\Desktop\ПЗ 2-4\Kozlovskiy.TaskPlanner\Kozlovskiy.TaskPlanner.Domain.Logic\bin\Debug\net48\Kozlovskiy.TaskPlanner.Domain.Logic.dll
+C:\Users\Юля\Desktop\ПЗ 2-4\Kozlovskiy.TaskPlanner\Kozlovskiy.TaskPlanner.Domain.Logic\bin\Debug\net48\Kozlovskiy.TaskPlanner.Domain.Logic.pdb
+C:\Users\Юля\Desktop\ПЗ 2-4\Kozlovskiy.TaskPlanner\Kozlovskiy.TaskPlanner.Domain.Logic\bin\Debug\net48\Kozlovskiy.TaskPlanner.DataAccess.Abstractions.dll
+C:\Users\Юля\Desktop\ПЗ 2-4\Kozlovskiy.TaskPlanner\Kozlovskiy.TaskPlanner.Domain.Logic\bin\Debug\net48\Kozlovskiy.TaskPlanner.Domain.Models.dll
+C:\Users\Юля\Desktop\ПЗ 2-4\Kozlovskiy.TaskPlanner\Kozlovskiy.TaskPlanner.Domain.Logic\bin\Debug\net48\Kozlovskiy.TaskPlanner.Domain.Models.pdb
+C:\Users\Юля\Desktop\ПЗ 2-4\Kozlovskiy.TaskPlanner\Kozlovskiy.TaskPlanner.Domain.Logic\bin\Debug\net48\Kozlovskiy.TaskPlanner.DataAccess.Abstractions.pdb
+C:\Users\Юля\Desktop\ПЗ 2-4\Kozlovskiy.TaskPlanner\Kozlovskiy.TaskPlanner.Domain.Logic\obj\Debug\net48\Kozlovskiy.TaskPlanner.Domain.Logic.csproj.AssemblyReference.cache
+C:\Users\Юля\Desktop\ПЗ 2-4\Kozlovskiy.TaskPlanner\Kozlovskiy.TaskPlanner.Domain.Logic\obj\Debug\net48\Kozlovskiy.TaskPlanner.Domain.Logic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Юля\Desktop\ПЗ 2-4\Kozlovskiy.TaskPlanner\Kozlovskiy.TaskPlanner.Domain.Logic\obj\Debug\net48\Kozlovskiy.TaskPlanner.Domain.Logic.AssemblyInfoInputs.cache
+C:\Users\Юля\Desktop\ПЗ 2-4\Kozlovskiy.TaskPlanner\Kozlovskiy.TaskPlanner.Domain.Logic\obj\Debug\net48\Kozlovskiy.TaskPlanner.Domain.Logic.AssemblyInfo.cs
+C:\Users\Юля\Desktop\ПЗ 2-4\Kozlovskiy.TaskPlanner\Kozlovskiy.TaskPlanner.Domain.Logic\obj\Debug\net48\Kozlovskiy.TaskPlanner.Domain.Logic.csproj.CoreCompileInputs.cache
+C:\Users\Юля\Desktop\ПЗ 2-4\Kozlovskiy.TaskPlanner\Kozlovskiy.TaskPlanner.Domain.Logic\obj\Debug\net48\Kozlovsk.EB703311.Up2Date
+C:\Users\Юля\Desktop\ПЗ 2-4\Kozlovskiy.TaskPlanner\Kozlovskiy.TaskPlanner.Domain.Logic\obj\Debug\net48\Kozlovskiy.TaskPlanner.Domain.Logic.dll
+C:\Users\Юля\Desktop\ПЗ 2-4\Kozlovskiy.TaskPlanner\Kozlovskiy.TaskPlanner.Domain.Logic\obj\Debug\net48\Kozlovskiy.TaskPlanner.Domain.Logic.pdb

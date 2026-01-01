@@ -1,0 +1,30 @@
+C:\Users\Юля\Desktop\Kozlovskiy.TaskPlanner\Kozlovskiy.TaskPlanner.DataAccess\bin\Debug\net48\Kozlovskiy.TaskPlanner.DataAccess.dll
+C:\Users\Юля\Desktop\Kozlovskiy.TaskPlanner\Kozlovskiy.TaskPlanner.DataAccess\bin\Debug\net48\Kozlovskiy.TaskPlanner.DataAccess.pdb
+C:\Users\Юля\Desktop\Kozlovskiy.TaskPlanner\Kozlovskiy.TaskPlanner.DataAccess\bin\Debug\net48\Newtonsoft.Json.dll
+C:\Users\Юля\Desktop\Kozlovskiy.TaskPlanner\Kozlovskiy.TaskPlanner.DataAccess\bin\Debug\net48\Kozlovskiy.TaskPlanner.DataAccess.Abstractions.dll
+C:\Users\Юля\Desktop\Kozlovskiy.TaskPlanner\Kozlovskiy.TaskPlanner.DataAccess\bin\Debug\net48\Kozlovskiy.TaskPlanner.Domain.Models.dll
+C:\Users\Юля\Desktop\Kozlovskiy.TaskPlanner\Kozlovskiy.TaskPlanner.DataAccess\bin\Debug\net48\Kozlovskiy.TaskPlanner.Domain.Models.pdb
+C:\Users\Юля\Desktop\Kozlovskiy.TaskPlanner\Kozlovskiy.TaskPlanner.DataAccess\bin\Debug\net48\Kozlovskiy.TaskPlanner.DataAccess.Abstractions.pdb
+C:\Users\Юля\Desktop\Kozlovskiy.TaskPlanner\Kozlovskiy.TaskPlanner.DataAccess\obj\Debug\net48\Kozlovskiy.TaskPlanner.DataAccess.csproj.AssemblyReference.cache
+C:\Users\Юля\Desktop\Kozlovskiy.TaskPlanner\Kozlovskiy.TaskPlanner.DataAccess\obj\Debug\net48\Kozlovskiy.TaskPlanner.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Юля\Desktop\Kozlovskiy.TaskPlanner\Kozlovskiy.TaskPlanner.DataAccess\obj\Debug\net48\Kozlovskiy.TaskPlanner.DataAccess.AssemblyInfoInputs.cache
+C:\Users\Юля\Desktop\Kozlovskiy.TaskPlanner\Kozlovskiy.TaskPlanner.DataAccess\obj\Debug\net48\Kozlovskiy.TaskPlanner.DataAccess.AssemblyInfo.cs
+C:\Users\Юля\Desktop\Kozlovskiy.TaskPlanner\Kozlovskiy.TaskPlanner.DataAccess\obj\Debug\net48\Kozlovskiy.TaskPlanner.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Юля\Desktop\Kozlovskiy.TaskPlanner\Kozlovskiy.TaskPlanner.DataAccess\obj\Debug\net48\Kozlovsk.85D43D16.Up2Date
+C:\Users\Юля\Desktop\Kozlovskiy.TaskPlanner\Kozlovskiy.TaskPlanner.DataAccess\obj\Debug\net48\Kozlovskiy.TaskPlanner.DataAccess.dll
+C:\Users\Юля\Desktop\Kozlovskiy.TaskPlanner\Kozlovskiy.TaskPlanner.DataAccess\obj\Debug\net48\Kozlovskiy.TaskPlanner.DataAccess.pdb
+C:\Users\Юля\Desktop\ПЗ 2-4\Kozlovskiy.TaskPlanner\Kozlovskiy.TaskPlanner.DataAccess\bin\Debug\net48\Kozlovskiy.TaskPlanner.DataAccess.dll
+C:\Users\Юля\Desktop\ПЗ 2-4\Kozlovskiy.TaskPlanner\Kozlovskiy.TaskPlanner.DataAccess\bin\Debug\net48\Kozlovskiy.TaskPlanner.DataAccess.pdb
+C:\Users\Юля\Desktop\ПЗ 2-4\Kozlovskiy.TaskPlanner\Kozlovskiy.TaskPlanner.DataAccess\bin\Debug\net48\Newtonsoft.Json.dll
+C:\Users\Юля\Desktop\ПЗ 2-4\Kozlovskiy.TaskPlanner\Kozlovskiy.TaskPlanner.DataAccess\bin\Debug\net48\Kozlovskiy.TaskPlanner.DataAccess.Abstractions.dll
+C:\Users\Юля\Desktop\ПЗ 2-4\Kozlovskiy.TaskPlanner\Kozlovskiy.TaskPlanner.DataAccess\bin\Debug\net48\Kozlovskiy.TaskPlanner.Domain.Models.dll
+C:\Users\Юля\Desktop\ПЗ 2-4\Kozlovskiy.TaskPlanner\Kozlovskiy.TaskPlanner.DataAccess\bin\Debug\net48\Kozlovskiy.TaskPlanner.Domain.Models.pdb
+C:\Users\Юля\Desktop\ПЗ 2-4\Kozlovskiy.TaskPlanner\Kozlovskiy.TaskPlanner.DataAccess\bin\Debug\net48\Kozlovskiy.TaskPlanner.DataAccess.Abstractions.pdb
+C:\Users\Юля\Desktop\ПЗ 2-4\Kozlovskiy.TaskPlanner\Kozlovskiy.TaskPlanner.DataAccess\obj\Debug\net48\Kozlovskiy.TaskPlanner.DataAccess.csproj.AssemblyReference.cache
+C:\Users\Юля\Desktop\ПЗ 2-4\Kozlovskiy.TaskPlanner\Kozlovskiy.TaskPlanner.DataAccess\obj\Debug\net48\Kozlovskiy.TaskPlanner.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Юля\Desktop\ПЗ 2-4\Kozlovskiy.TaskPlanner\Kozlovskiy.TaskPlanner.DataAccess\obj\Debug\net48\Kozlovskiy.TaskPlanner.DataAccess.AssemblyInfoInputs.cache
+C:\Users\Юля\Desktop\ПЗ 2-4\Kozlovskiy.TaskPlanner\Kozlovskiy.TaskPlanner.DataAccess\obj\Debug\net48\Kozlovskiy.TaskPlanner.DataAccess.AssemblyInfo.cs
+C:\Users\Юля\Desktop\ПЗ 2-4\Kozlovskiy.TaskPlanner\Kozlovskiy.TaskPlanner.DataAccess\obj\Debug\net48\Kozlovskiy.TaskPlanner.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Юля\Desktop\ПЗ 2-4\Kozlovskiy.TaskPlanner\Kozlovskiy.TaskPlanner.DataAccess\obj\Debug\net48\Kozlovsk.85D43D16.Up2Date
+C:\Users\Юля\Desktop\ПЗ 2-4\Kozlovskiy.TaskPlanner\Kozlovskiy.TaskPlanner.DataAccess\obj\Debug\net48\Kozlovskiy.TaskPlanner.DataAccess.dll
+C:\Users\Юля\Desktop\ПЗ 2-4\Kozlovskiy.TaskPlanner\Kozlovskiy.TaskPlanner.DataAccess\obj\Debug\net48\Kozlovskiy.TaskPlanner.DataAccess.pdb

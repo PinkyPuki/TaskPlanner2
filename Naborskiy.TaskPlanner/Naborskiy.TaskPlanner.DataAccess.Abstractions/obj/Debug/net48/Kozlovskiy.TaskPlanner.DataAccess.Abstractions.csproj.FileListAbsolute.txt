@@ -1,0 +1,24 @@
+C:\Users\Юля\Desktop\Kozlovskiy.TaskPlanner\Kozlovskiy.TaskPlanner.DataAccess.Abstractions\bin\Debug\net48\Kozlovskiy.TaskPlanner.DataAccess.Abstractions.dll
+C:\Users\Юля\Desktop\Kozlovskiy.TaskPlanner\Kozlovskiy.TaskPlanner.DataAccess.Abstractions\bin\Debug\net48\Kozlovskiy.TaskPlanner.DataAccess.Abstractions.pdb
+C:\Users\Юля\Desktop\Kozlovskiy.TaskPlanner\Kozlovskiy.TaskPlanner.DataAccess.Abstractions\bin\Debug\net48\Kozlovskiy.TaskPlanner.Domain.Models.dll
+C:\Users\Юля\Desktop\Kozlovskiy.TaskPlanner\Kozlovskiy.TaskPlanner.DataAccess.Abstractions\bin\Debug\net48\Kozlovskiy.TaskPlanner.Domain.Models.pdb
+C:\Users\Юля\Desktop\Kozlovskiy.TaskPlanner\Kozlovskiy.TaskPlanner.DataAccess.Abstractions\obj\Debug\net48\Kozlovskiy.TaskPlanner.DataAccess.Abstractions.csproj.AssemblyReference.cache
+C:\Users\Юля\Desktop\Kozlovskiy.TaskPlanner\Kozlovskiy.TaskPlanner.DataAccess.Abstractions\obj\Debug\net48\Kozlovskiy.TaskPlanner.DataAccess.Abstractions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Юля\Desktop\Kozlovskiy.TaskPlanner\Kozlovskiy.TaskPlanner.DataAccess.Abstractions\obj\Debug\net48\Kozlovskiy.TaskPlanner.DataAccess.Abstractions.AssemblyInfoInputs.cache
+C:\Users\Юля\Desktop\Kozlovskiy.TaskPlanner\Kozlovskiy.TaskPlanner.DataAccess.Abstractions\obj\Debug\net48\Kozlovskiy.TaskPlanner.DataAccess.Abstractions.AssemblyInfo.cs
+C:\Users\Юля\Desktop\Kozlovskiy.TaskPlanner\Kozlovskiy.TaskPlanner.DataAccess.Abstractions\obj\Debug\net48\Kozlovskiy.TaskPlanner.DataAccess.Abstractions.csproj.CoreCompileInputs.cache
+C:\Users\Юля\Desktop\Kozlovskiy.TaskPlanner\Kozlovskiy.TaskPlanner.DataAccess.Abstractions\obj\Debug\net48\Kozlovsk.70290BF9.Up2Date
+C:\Users\Юля\Desktop\Kozlovskiy.TaskPlanner\Kozlovskiy.TaskPlanner.DataAccess.Abstractions\obj\Debug\net48\Kozlovskiy.TaskPlanner.DataAccess.Abstractions.dll
+C:\Users\Юля\Desktop\Kozlovskiy.TaskPlanner\Kozlovskiy.TaskPlanner.DataAccess.Abstractions\obj\Debug\net48\Kozlovskiy.TaskPlanner.DataAccess.Abstractions.pdb
+C:\Users\Юля\Desktop\ПЗ 2-4\Kozlovskiy.TaskPlanner\Kozlovskiy.TaskPlanner.DataAccess.Abstractions\bin\Debug\net48\Kozlovskiy.TaskPlanner.DataAccess.Abstractions.dll
+C:\Users\Юля\Desktop\ПЗ 2-4\Kozlovskiy.TaskPlanner\Kozlovskiy.TaskPlanner.DataAccess.Abstractions\bin\Debug\net48\Kozlovskiy.TaskPlanner.DataAccess.Abstractions.pdb
+C:\Users\Юля\Desktop\ПЗ 2-4\Kozlovskiy.TaskPlanner\Kozlovskiy.TaskPlanner.DataAccess.Abstractions\bin\Debug\net48\Kozlovskiy.TaskPlanner.Domain.Models.dll
+C:\Users\Юля\Desktop\ПЗ 2-4\Kozlovskiy.TaskPlanner\Kozlovskiy.TaskPlanner.DataAccess.Abstractions\bin\Debug\net48\Kozlovskiy.TaskPlanner.Domain.Models.pdb
+C:\Users\Юля\Desktop\ПЗ 2-4\Kozlovskiy.TaskPlanner\Kozlovskiy.TaskPlanner.DataAccess.Abstractions\obj\Debug\net48\Kozlovskiy.TaskPlanner.DataAccess.Abstractions.csproj.AssemblyReference.cache
+C:\Users\Юля\Desktop\ПЗ 2-4\Kozlovskiy.TaskPlanner\Kozlovskiy.TaskPlanner.DataAccess.Abstractions\obj\Debug\net48\Kozlovskiy.TaskPlanner.DataAccess.Abstractions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Юля\Desktop\ПЗ 2-4\Kozlovskiy.TaskPlanner\Kozlovskiy.TaskPlanner.DataAccess.Abstractions\obj\Debug\net48\Kozlovskiy.TaskPlanner.DataAccess.Abstractions.AssemblyInfoInputs.cache
+C:\Users\Юля\Desktop\ПЗ 2-4\Kozlovskiy.TaskPlanner\Kozlovskiy.TaskPlanner.DataAccess.Abstractions\obj\Debug\net48\Kozlovskiy.TaskPlanner.DataAccess.Abstractions.AssemblyInfo.cs
+C:\Users\Юля\Desktop\ПЗ 2-4\Kozlovskiy.TaskPlanner\Kozlovskiy.TaskPlanner.DataAccess.Abstractions\obj\Debug\net48\Kozlovskiy.TaskPlanner.DataAccess.Abstractions.csproj.CoreCompileInputs.cache
+C:\Users\Юля\Desktop\ПЗ 2-4\Kozlovskiy.TaskPlanner\Kozlovskiy.TaskPlanner.DataAccess.Abstractions\obj\Debug\net48\Kozlovsk.70290BF9.Up2Date
+C:\Users\Юля\Desktop\ПЗ 2-4\Kozlovskiy.TaskPlanner\Kozlovskiy.TaskPlanner.DataAccess.Abstractions\obj\Debug\net48\Kozlovskiy.TaskPlanner.DataAccess.Abstractions.dll
+C:\Users\Юля\Desktop\ПЗ 2-4\Kozlovskiy.TaskPlanner\Kozlovskiy.TaskPlanner.DataAccess.Abstractions\obj\Debug\net48\Kozlovskiy.TaskPlanner.DataAccess.Abstractions.pdb

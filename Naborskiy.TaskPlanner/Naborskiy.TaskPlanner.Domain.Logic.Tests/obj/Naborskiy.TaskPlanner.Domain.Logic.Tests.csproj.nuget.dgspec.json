@@ -1,0 +1,221 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Микола\\Desktop\\labs\\.Net\\pz 2 4\\Naborskiy.TaskPlanner\\Naborskiy.TaskPlanner.Domain.Logic.Tests\\Naborskiy.TaskPlanner.Domain.Logic.Tests.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Микола\\Desktop\\labs\\.Net\\pz 2 4\\Naborskiy.TaskPlanner\\Naborskiy.TaskPlanner.DataAccess.Abstractions\\Naborskiy.TaskPlanner.DataAccess.Abstractions.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Микола\\Desktop\\labs\\.Net\\pz 2 4\\Naborskiy.TaskPlanner\\Naborskiy.TaskPlanner.DataAccess.Abstractions\\Naborskiy.TaskPlanner.DataAccess.Abstractions.csproj",
+        "projectName": "Naborskiy.TaskPlanner.DataAccess.Abstractions",
+        "projectPath": "C:\\Users\\Микола\\Desktop\\labs\\.Net\\pz 2 4\\Naborskiy.TaskPlanner\\Naborskiy.TaskPlanner.DataAccess.Abstractions\\Naborskiy.TaskPlanner.DataAccess.Abstractions.csproj",
+        "packagesPath": "C:\\Users\\Микола\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Микола\\Desktop\\labs\\.Net\\pz 2 4\\Naborskiy.TaskPlanner\\Naborskiy.TaskPlanner.DataAccess.Abstractions\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Микола\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net48"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net48": {
+            "targetAlias": "net48",
+            "projectReferences": {
+              "C:\\Users\\Микола\\Desktop\\labs\\.Net\\pz 2 4\\Naborskiy.TaskPlanner\\Naborskiy.TaskPlanner.Domain.Models\\Naborskiy.TaskPlanner.Domain.Models.csproj": {
+                "projectPath": "C:\\Users\\Микола\\Desktop\\labs\\.Net\\pz 2 4\\Naborskiy.TaskPlanner\\Naborskiy.TaskPlanner.Domain.Models\\Naborskiy.TaskPlanner.Domain.Models.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "10.0.100"
+      },
+      "frameworks": {
+        "net48": {
+          "targetAlias": "net48",
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Микола\\Desktop\\labs\\.Net\\pz 2 4\\Naborskiy.TaskPlanner\\Naborskiy.TaskPlanner.Domain.Logic.Tests\\Naborskiy.TaskPlanner.Domain.Logic.Tests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Микола\\Desktop\\labs\\.Net\\pz 2 4\\Naborskiy.TaskPlanner\\Naborskiy.TaskPlanner.Domain.Logic.Tests\\Naborskiy.TaskPlanner.Domain.Logic.Tests.csproj",
+        "projectName": "Naborskiy.TaskPlanner.Domain.Logic.Tests",
+        "projectPath": "C:\\Users\\Микола\\Desktop\\labs\\.Net\\pz 2 4\\Naborskiy.TaskPlanner\\Naborskiy.TaskPlanner.Domain.Logic.Tests\\Naborskiy.TaskPlanner.Domain.Logic.Tests.csproj",
+        "packagesPath": "C:\\Users\\Микола\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Микола\\Desktop\\labs\\.Net\\pz 2 4\\Naborskiy.TaskPlanner\\Naborskiy.TaskPlanner.Domain.Logic.Tests\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Микола\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net48"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net48": {
+            "targetAlias": "net48",
+            "projectReferences": {
+              "C:\\Users\\Микола\\Desktop\\labs\\.Net\\pz 2 4\\Naborskiy.TaskPlanner\\Naborskiy.TaskPlanner.Domain.Logic\\Naborskiy.TaskPlanner.Domain.Logic.csproj": {
+                "projectPath": "C:\\Users\\Микола\\Desktop\\labs\\.Net\\pz 2 4\\Naborskiy.TaskPlanner\\Naborskiy.TaskPlanner.Domain.Logic\\Naborskiy.TaskPlanner.Domain.Logic.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "10.0.100"
+      },
+      "frameworks": {
+        "net48": {
+          "targetAlias": "net48",
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.8.0, )"
+            },
+            "Moq": {
+              "target": "Package",
+              "version": "[4.20.72, )"
+            },
+            "coverlet.collector": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.5.3, )"
+            },
+            "xunit.runner.visualstudio": {
+              "target": "Package",
+              "version": "[2.5.3, )"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Микола\\Desktop\\labs\\.Net\\pz 2 4\\Naborskiy.TaskPlanner\\Naborskiy.TaskPlanner.Domain.Logic\\Naborskiy.TaskPlanner.Domain.Logic.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Микола\\Desktop\\labs\\.Net\\pz 2 4\\Naborskiy.TaskPlanner\\Naborskiy.TaskPlanner.Domain.Logic\\Naborskiy.TaskPlanner.Domain.Logic.csproj",
+        "projectName": "Naborskiy.TaskPlanner.Domain.Logic",
+        "projectPath": "C:\\Users\\Микола\\Desktop\\labs\\.Net\\pz 2 4\\Naborskiy.TaskPlanner\\Naborskiy.TaskPlanner.Domain.Logic\\Naborskiy.TaskPlanner.Domain.Logic.csproj",
+        "packagesPath": "C:\\Users\\Микола\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Микола\\Desktop\\labs\\.Net\\pz 2 4\\Naborskiy.TaskPlanner\\Naborskiy.TaskPlanner.Domain.Logic\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Микола\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net48"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net48": {
+            "targetAlias": "net48",
+            "projectReferences": {
+              "C:\\Users\\Микола\\Desktop\\labs\\.Net\\pz 2 4\\Naborskiy.TaskPlanner\\Naborskiy.TaskPlanner.DataAccess.Abstractions\\Naborskiy.TaskPlanner.DataAccess.Abstractions.csproj": {
+                "projectPath": "C:\\Users\\Микола\\Desktop\\labs\\.Net\\pz 2 4\\Naborskiy.TaskPlanner\\Naborskiy.TaskPlanner.DataAccess.Abstractions\\Naborskiy.TaskPlanner.DataAccess.Abstractions.csproj"
+              },
+              "C:\\Users\\Микола\\Desktop\\labs\\.Net\\pz 2 4\\Naborskiy.TaskPlanner\\Naborskiy.TaskPlanner.Domain.Models\\Naborskiy.TaskPlanner.Domain.Models.csproj": {
+                "projectPath": "C:\\Users\\Микола\\Desktop\\labs\\.Net\\pz 2 4\\Naborskiy.TaskPlanner\\Naborskiy.TaskPlanner.Domain.Models\\Naborskiy.TaskPlanner.Domain.Models.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "10.0.100"
+      },
+      "frameworks": {
+        "net48": {
+          "targetAlias": "net48",
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Микола\\Desktop\\labs\\.Net\\pz 2 4\\Naborskiy.TaskPlanner\\Naborskiy.TaskPlanner.Domain.Models\\Naborskiy.TaskPlanner.Domain.Models.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Микола\\Desktop\\labs\\.Net\\pz 2 4\\Naborskiy.TaskPlanner\\Naborskiy.TaskPlanner.Domain.Models\\Naborskiy.TaskPlanner.Domain.Models.csproj",
+        "projectName": "Naborskiy.TaskPlanner.Domain.Models",
+        "projectPath": "C:\\Users\\Микола\\Desktop\\labs\\.Net\\pz 2 4\\Naborskiy.TaskPlanner\\Naborskiy.TaskPlanner.Domain.Models\\Naborskiy.TaskPlanner.Domain.Models.csproj",
+        "packagesPath": "C:\\Users\\Микола\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Микола\\Desktop\\labs\\.Net\\pz 2 4\\Naborskiy.TaskPlanner\\Naborskiy.TaskPlanner.Domain.Models\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Микола\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net48"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net48": {
+            "targetAlias": "net48",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "10.0.100"
+      },
+      "frameworks": {
+        "net48": {
+          "targetAlias": "net48",
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

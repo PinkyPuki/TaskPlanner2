@@ -1,0 +1,18 @@
+C:\Users\Юля\Desktop\Kozlovskiy.TaskPlanner\Kozlovskiy.TaskPlanner.Domain.Models\bin\Debug\net48\Kozlovskiy.TaskPlanner.Domain.Models.dll
+C:\Users\Юля\Desktop\Kozlovskiy.TaskPlanner\Kozlovskiy.TaskPlanner.Domain.Models\bin\Debug\net48\Kozlovskiy.TaskPlanner.Domain.Models.pdb
+C:\Users\Юля\Desktop\Kozlovskiy.TaskPlanner\Kozlovskiy.TaskPlanner.Domain.Models\obj\Debug\net48\Kozlovskiy.TaskPlanner.Domain.Models.csproj.AssemblyReference.cache
+C:\Users\Юля\Desktop\Kozlovskiy.TaskPlanner\Kozlovskiy.TaskPlanner.Domain.Models\obj\Debug\net48\Kozlovskiy.TaskPlanner.Domain.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Юля\Desktop\Kozlovskiy.TaskPlanner\Kozlovskiy.TaskPlanner.Domain.Models\obj\Debug\net48\Kozlovskiy.TaskPlanner.Domain.Models.AssemblyInfoInputs.cache
+C:\Users\Юля\Desktop\Kozlovskiy.TaskPlanner\Kozlovskiy.TaskPlanner.Domain.Models\obj\Debug\net48\Kozlovskiy.TaskPlanner.Domain.Models.AssemblyInfo.cs
+C:\Users\Юля\Desktop\Kozlovskiy.TaskPlanner\Kozlovskiy.TaskPlanner.Domain.Models\obj\Debug\net48\Kozlovskiy.TaskPlanner.Domain.Models.csproj.CoreCompileInputs.cache
+C:\Users\Юля\Desktop\Kozlovskiy.TaskPlanner\Kozlovskiy.TaskPlanner.Domain.Models\obj\Debug\net48\Kozlovskiy.TaskPlanner.Domain.Models.dll
+C:\Users\Юля\Desktop\Kozlovskiy.TaskPlanner\Kozlovskiy.TaskPlanner.Domain.Models\obj\Debug\net48\Kozlovskiy.TaskPlanner.Domain.Models.pdb
+C:\Users\Юля\Desktop\ПЗ 2-4\Kozlovskiy.TaskPlanner\Kozlovskiy.TaskPlanner.Domain.Models\bin\Debug\net48\Kozlovskiy.TaskPlanner.Domain.Models.dll
+C:\Users\Юля\Desktop\ПЗ 2-4\Kozlovskiy.TaskPlanner\Kozlovskiy.TaskPlanner.Domain.Models\bin\Debug\net48\Kozlovskiy.TaskPlanner.Domain.Models.pdb
+C:\Users\Юля\Desktop\ПЗ 2-4\Kozlovskiy.TaskPlanner\Kozlovskiy.TaskPlanner.Domain.Models\obj\Debug\net48\Kozlovskiy.TaskPlanner.Domain.Models.csproj.AssemblyReference.cache
+C:\Users\Юля\Desktop\ПЗ 2-4\Kozlovskiy.TaskPlanner\Kozlovskiy.TaskPlanner.Domain.Models\obj\Debug\net48\Kozlovskiy.TaskPlanner.Domain.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Юля\Desktop\ПЗ 2-4\Kozlovskiy.TaskPlanner\Kozlovskiy.TaskPlanner.Domain.Models\obj\Debug\net48\Kozlovskiy.TaskPlanner.Domain.Models.AssemblyInfoInputs.cache
+C:\Users\Юля\Desktop\ПЗ 2-4\Kozlovskiy.TaskPlanner\Kozlovskiy.TaskPlanner.Domain.Models\obj\Debug\net48\Kozlovskiy.TaskPlanner.Domain.Models.AssemblyInfo.cs
+C:\Users\Юля\Desktop\ПЗ 2-4\Kozlovskiy.TaskPlanner\Kozlovskiy.TaskPlanner.Domain.Models\obj\Debug\net48\Kozlovskiy.TaskPlanner.Domain.Models.csproj.CoreCompileInputs.cache
+C:\Users\Юля\Desktop\ПЗ 2-4\Kozlovskiy.TaskPlanner\Kozlovskiy.TaskPlanner.Domain.Models\obj\Debug\net48\Kozlovskiy.TaskPlanner.Domain.Models.dll
+C:\Users\Юля\Desktop\ПЗ 2-4\Kozlovskiy.TaskPlanner\Kozlovskiy.TaskPlanner.Domain.Models\obj\Debug\net48\Kozlovskiy.TaskPlanner.Domain.Models.pdb

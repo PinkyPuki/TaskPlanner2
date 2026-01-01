@@ -1,0 +1,35 @@
+C:\Users\Юля\Desktop\Kozlovskiy.TaskPlanner\Kozlovskiy.TaskPlanner\bin\Debug\Kozlovskiy.TaskPlanner.exe.config
+C:\Users\Юля\Desktop\Kozlovskiy.TaskPlanner\Kozlovskiy.TaskPlanner\bin\Debug\Kozlovskiy.TaskPlanner.exe
+C:\Users\Юля\Desktop\Kozlovskiy.TaskPlanner\Kozlovskiy.TaskPlanner\bin\Debug\Kozlovskiy.TaskPlanner.pdb
+C:\Users\Юля\Desktop\Kozlovskiy.TaskPlanner\Kozlovskiy.TaskPlanner\bin\Debug\Kozlovskiy.TaskPlanner.DataAccess.Abstractions.dll
+C:\Users\Юля\Desktop\Kozlovskiy.TaskPlanner\Kozlovskiy.TaskPlanner\bin\Debug\Kozlovskiy.TaskPlanner.DataAccess.dll
+C:\Users\Юля\Desktop\Kozlovskiy.TaskPlanner\Kozlovskiy.TaskPlanner\bin\Debug\Kozlovskiy.TaskPlanner.Domain.Logic.dll
+C:\Users\Юля\Desktop\Kozlovskiy.TaskPlanner\Kozlovskiy.TaskPlanner\bin\Debug\Kozlovskiy.TaskPlanner.Domain.Models.dll
+C:\Users\Юля\Desktop\Kozlovskiy.TaskPlanner\Kozlovskiy.TaskPlanner\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Юля\Desktop\Kozlovskiy.TaskPlanner\Kozlovskiy.TaskPlanner\bin\Debug\Kozlovskiy.TaskPlanner.Domain.Logic.pdb
+C:\Users\Юля\Desktop\Kozlovskiy.TaskPlanner\Kozlovskiy.TaskPlanner\bin\Debug\Kozlovskiy.TaskPlanner.Domain.Models.pdb
+C:\Users\Юля\Desktop\Kozlovskiy.TaskPlanner\Kozlovskiy.TaskPlanner\bin\Debug\Kozlovskiy.TaskPlanner.DataAccess.pdb
+C:\Users\Юля\Desktop\Kozlovskiy.TaskPlanner\Kozlovskiy.TaskPlanner\bin\Debug\Kozlovskiy.TaskPlanner.DataAccess.Abstractions.pdb
+C:\Users\Юля\Desktop\Kozlovskiy.TaskPlanner\Kozlovskiy.TaskPlanner\obj\Debug\Kozlovskiy.TaskPlanner.csproj.AssemblyReference.cache
+C:\Users\Юля\Desktop\Kozlovskiy.TaskPlanner\Kozlovskiy.TaskPlanner\obj\Debug\Kozlovskiy.TaskPlanner.csproj.CoreCompileInputs.cache
+C:\Users\Юля\Desktop\Kozlovskiy.TaskPlanner\Kozlovskiy.TaskPlanner\obj\Debug\Kozlovsk.4D77FD8F.Up2Date
+C:\Users\Юля\Desktop\Kozlovskiy.TaskPlanner\Kozlovskiy.TaskPlanner\obj\Debug\Kozlovskiy.TaskPlanner.exe
+C:\Users\Юля\Desktop\Kozlovskiy.TaskPlanner\Kozlovskiy.TaskPlanner\obj\Debug\Kozlovskiy.TaskPlanner.pdb
+C:\Users\Юля\Desktop\ПЗ 2-4\Kozlovskiy.TaskPlanner\Kozlovskiy.TaskPlanner\bin\Debug\Kozlovskiy.TaskPlanner.exe.config
+C:\Users\Юля\Desktop\ПЗ 2-4\Kozlovskiy.TaskPlanner\Kozlovskiy.TaskPlanner\bin\Debug\Kozlovskiy.TaskPlanner.exe
+C:\Users\Юля\Desktop\ПЗ 2-4\Kozlovskiy.TaskPlanner\Kozlovskiy.TaskPlanner\bin\Debug\Kozlovskiy.TaskPlanner.pdb
+C:\Users\Юля\Desktop\ПЗ 2-4\Kozlovskiy.TaskPlanner\Kozlovskiy.TaskPlanner\bin\Debug\Kozlovskiy.TaskPlanner.DataAccess.Abstractions.dll
+C:\Users\Юля\Desktop\ПЗ 2-4\Kozlovskiy.TaskPlanner\Kozlovskiy.TaskPlanner\bin\Debug\Kozlovskiy.TaskPlanner.DataAccess.dll
+C:\Users\Юля\Desktop\ПЗ 2-4\Kozlovskiy.TaskPlanner\Kozlovskiy.TaskPlanner\bin\Debug\Kozlovskiy.TaskPlanner.Domain.Logic.dll
+C:\Users\Юля\Desktop\ПЗ 2-4\Kozlovskiy.TaskPlanner\Kozlovskiy.TaskPlanner\bin\Debug\Kozlovskiy.TaskPlanner.Domain.Models.dll
+C:\Users\Юля\Desktop\ПЗ 2-4\Kozlovskiy.TaskPlanner\Kozlovskiy.TaskPlanner\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Юля\Desktop\ПЗ 2-4\Kozlovskiy.TaskPlanner\Kozlovskiy.TaskPlanner\bin\Debug\Kozlovskiy.TaskPlanner.Domain.Logic.pdb
+C:\Users\Юля\Desktop\ПЗ 2-4\Kozlovskiy.TaskPlanner\Kozlovskiy.TaskPlanner\bin\Debug\Kozlovskiy.TaskPlanner.Domain.Models.pdb
+C:\Users\Юля\Desktop\ПЗ 2-4\Kozlovskiy.TaskPlanner\Kozlovskiy.TaskPlanner\bin\Debug\Kozlovskiy.TaskPlanner.DataAccess.pdb
+C:\Users\Юля\Desktop\ПЗ 2-4\Kozlovskiy.TaskPlanner\Kozlovskiy.TaskPlanner\bin\Debug\Kozlovskiy.TaskPlanner.DataAccess.Abstractions.pdb
+C:\Users\Юля\Desktop\ПЗ 2-4\Kozlovskiy.TaskPlanner\Kozlovskiy.TaskPlanner\obj\Debug\Kozlovskiy.TaskPlanner.csproj.AssemblyReference.cache
+C:\Users\Юля\Desktop\ПЗ 2-4\Kozlovskiy.TaskPlanner\Kozlovskiy.TaskPlanner\obj\Debug\Kozlovskiy.TaskPlanner.exe.config
+C:\Users\Юля\Desktop\ПЗ 2-4\Kozlovskiy.TaskPlanner\Kozlovskiy.TaskPlanner\obj\Debug\Kozlovskiy.TaskPlanner.csproj.CoreCompileInputs.cache
+C:\Users\Юля\Desktop\ПЗ 2-4\Kozlovskiy.TaskPlanner\Kozlovskiy.TaskPlanner\obj\Debug\Kozlovsk.4D77FD8F.Up2Date
+C:\Users\Юля\Desktop\ПЗ 2-4\Kozlovskiy.TaskPlanner\Kozlovskiy.TaskPlanner\obj\Debug\Kozlovskiy.TaskPlanner.exe
+C:\Users\Юля\Desktop\ПЗ 2-4\Kozlovskiy.TaskPlanner\Kozlovskiy.TaskPlanner\obj\Debug\Kozlovskiy.TaskPlanner.pdb

@@ -1,0 +1,172 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Юля\\Desktop\\ПЗ 2-4\\Kozlovskiy.TaskPlanner\\Kozlovskiy.TaskPlanner.DataAccess\\Kozlovskiy.TaskPlanner.DataAccess.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Юля\\Desktop\\ПЗ 2-4\\Kozlovskiy.TaskPlanner\\Kozlovskiy.TaskPlanner.DataAccess.Abstractions\\Kozlovskiy.TaskPlanner.DataAccess.Abstractions.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Юля\\Desktop\\ПЗ 2-4\\Kozlovskiy.TaskPlanner\\Kozlovskiy.TaskPlanner.DataAccess.Abstractions\\Kozlovskiy.TaskPlanner.DataAccess.Abstractions.csproj",
+        "projectName": "Kozlovskiy.TaskPlanner.DataAccess.Abstractions",
+        "projectPath": "C:\\Users\\Юля\\Desktop\\ПЗ 2-4\\Kozlovskiy.TaskPlanner\\Kozlovskiy.TaskPlanner.DataAccess.Abstractions\\Kozlovskiy.TaskPlanner.DataAccess.Abstractions.csproj",
+        "packagesPath": "C:\\Users\\Юля\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Юля\\Desktop\\ПЗ 2-4\\Kozlovskiy.TaskPlanner\\Kozlovskiy.TaskPlanner.DataAccess.Abstractions\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Юля\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net48"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net48": {
+            "targetAlias": "net48",
+            "projectReferences": {
+              "C:\\Users\\Юля\\Desktop\\ПЗ 2-4\\Kozlovskiy.TaskPlanner\\Kozlovskiy.TaskPlanner.Domain.Models\\Kozlovskiy.TaskPlanner.Domain.Models.csproj": {
+                "projectPath": "C:\\Users\\Юля\\Desktop\\ПЗ 2-4\\Kozlovskiy.TaskPlanner\\Kozlovskiy.TaskPlanner.Domain.Models\\Kozlovskiy.TaskPlanner.Domain.Models.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net48": {
+          "targetAlias": "net48",
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.306\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Юля\\Desktop\\ПЗ 2-4\\Kozlovskiy.TaskPlanner\\Kozlovskiy.TaskPlanner.DataAccess\\Kozlovskiy.TaskPlanner.DataAccess.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Юля\\Desktop\\ПЗ 2-4\\Kozlovskiy.TaskPlanner\\Kozlovskiy.TaskPlanner.DataAccess\\Kozlovskiy.TaskPlanner.DataAccess.csproj",
+        "projectName": "Kozlovskiy.TaskPlanner.DataAccess",
+        "projectPath": "C:\\Users\\Юля\\Desktop\\ПЗ 2-4\\Kozlovskiy.TaskPlanner\\Kozlovskiy.TaskPlanner.DataAccess\\Kozlovskiy.TaskPlanner.DataAccess.csproj",
+        "packagesPath": "C:\\Users\\Юля\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Юля\\Desktop\\ПЗ 2-4\\Kozlovskiy.TaskPlanner\\Kozlovskiy.TaskPlanner.DataAccess\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Юля\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net48"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net48": {
+            "targetAlias": "net48",
+            "projectReferences": {
+              "C:\\Users\\Юля\\Desktop\\ПЗ 2-4\\Kozlovskiy.TaskPlanner\\Kozlovskiy.TaskPlanner.DataAccess.Abstractions\\Kozlovskiy.TaskPlanner.DataAccess.Abstractions.csproj": {
+                "projectPath": "C:\\Users\\Юля\\Desktop\\ПЗ 2-4\\Kozlovskiy.TaskPlanner\\Kozlovskiy.TaskPlanner.DataAccess.Abstractions\\Kozlovskiy.TaskPlanner.DataAccess.Abstractions.csproj"
+              },
+              "C:\\Users\\Юля\\Desktop\\ПЗ 2-4\\Kozlovskiy.TaskPlanner\\Kozlovskiy.TaskPlanner.Domain.Models\\Kozlovskiy.TaskPlanner.Domain.Models.csproj": {
+                "projectPath": "C:\\Users\\Юля\\Desktop\\ПЗ 2-4\\Kozlovskiy.TaskPlanner\\Kozlovskiy.TaskPlanner.Domain.Models\\Kozlovskiy.TaskPlanner.Domain.Models.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net48": {
+          "targetAlias": "net48",
+          "dependencies": {
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.306\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Юля\\Desktop\\ПЗ 2-4\\Kozlovskiy.TaskPlanner\\Kozlovskiy.TaskPlanner.Domain.Models\\Kozlovskiy.TaskPlanner.Domain.Models.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Юля\\Desktop\\ПЗ 2-4\\Kozlovskiy.TaskPlanner\\Kozlovskiy.TaskPlanner.Domain.Models\\Kozlovskiy.TaskPlanner.Domain.Models.csproj",
+        "projectName": "Kozlovskiy.TaskPlanner.Domain.Models",
+        "projectPath": "C:\\Users\\Юля\\Desktop\\ПЗ 2-4\\Kozlovskiy.TaskPlanner\\Kozlovskiy.TaskPlanner.Domain.Models\\Kozlovskiy.TaskPlanner.Domain.Models.csproj",
+        "packagesPath": "C:\\Users\\Юля\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Юля\\Desktop\\ПЗ 2-4\\Kozlovskiy.TaskPlanner\\Kozlovskiy.TaskPlanner.Domain.Models\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Юля\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net48"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net48": {
+            "targetAlias": "net48",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net48": {
+          "targetAlias": "net48",
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.306\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

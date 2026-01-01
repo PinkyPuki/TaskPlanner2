@@ -1,0 +1,102 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETFramework,Version=v4.8": {
+      "Naborskiy.TaskPlanner.DataAccess.Abstractions/1.0.0": {
+        "type": "project",
+        "framework": ".NETFramework,Version=v4.8",
+        "dependencies": {
+          "Naborskiy.TaskPlanner.Domain.Models": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Naborskiy.TaskPlanner.DataAccess.Abstractions.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Naborskiy.TaskPlanner.DataAccess.Abstractions.dll": {}
+        }
+      },
+      "Naborskiy.TaskPlanner.Domain.Models/1.0.0": {
+        "type": "project",
+        "framework": ".NETFramework,Version=v4.8",
+        "compile": {
+          "bin/placeholder/Naborskiy.TaskPlanner.Domain.Models.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Naborskiy.TaskPlanner.Domain.Models.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Naborskiy.TaskPlanner.DataAccess.Abstractions/1.0.0": {
+      "type": "project",
+      "path": "../Naborskiy.TaskPlanner.DataAccess.Abstractions/Naborskiy.TaskPlanner.DataAccess.Abstractions.csproj",
+      "msbuildProject": "../Naborskiy.TaskPlanner.DataAccess.Abstractions/Naborskiy.TaskPlanner.DataAccess.Abstractions.csproj"
+    },
+    "Naborskiy.TaskPlanner.Domain.Models/1.0.0": {
+      "type": "project",
+      "path": "../Naborskiy.TaskPlanner.Domain.Models/Naborskiy.TaskPlanner.Domain.Models.csproj",
+      "msbuildProject": "../Naborskiy.TaskPlanner.Domain.Models/Naborskiy.TaskPlanner.Domain.Models.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETFramework,Version=v4.8": [
+      "Naborskiy.TaskPlanner.DataAccess.Abstractions >= 1.0.0",
+      "Naborskiy.TaskPlanner.Domain.Models >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Микола\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\Микола\\Desktop\\labs\\.Net\\pz 2 4\\Naborskiy.TaskPlanner\\Naborskiy.TaskPlanner.Domain.Logic\\Naborskiy.TaskPlanner.Domain.Logic.csproj",
+      "projectName": "Naborskiy.TaskPlanner.Domain.Logic",
+      "projectPath": "C:\\Users\\Микола\\Desktop\\labs\\.Net\\pz 2 4\\Naborskiy.TaskPlanner\\Naborskiy.TaskPlanner.Domain.Logic\\Naborskiy.TaskPlanner.Domain.Logic.csproj",
+      "packagesPath": "C:\\Users\\Микола\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Микола\\Desktop\\labs\\.Net\\pz 2 4\\Naborskiy.TaskPlanner\\Naborskiy.TaskPlanner.Domain.Logic\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\Микола\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net48"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net48": {
+          "targetAlias": "net48",
+          "projectReferences": {
+            "C:\\Users\\Микола\\Desktop\\labs\\.Net\\pz 2 4\\Naborskiy.TaskPlanner\\Naborskiy.TaskPlanner.DataAccess.Abstractions\\Naborskiy.TaskPlanner.DataAccess.Abstractions.csproj": {
+              "projectPath": "C:\\Users\\Микола\\Desktop\\labs\\.Net\\pz 2 4\\Naborskiy.TaskPlanner\\Naborskiy.TaskPlanner.DataAccess.Abstractions\\Naborskiy.TaskPlanner.DataAccess.Abstractions.csproj"
+            },
+            "C:\\Users\\Микола\\Desktop\\labs\\.Net\\pz 2 4\\Naborskiy.TaskPlanner\\Naborskiy.TaskPlanner.Domain.Models\\Naborskiy.TaskPlanner.Domain.Models.csproj": {
+              "projectPath": "C:\\Users\\Микола\\Desktop\\labs\\.Net\\pz 2 4\\Naborskiy.TaskPlanner\\Naborskiy.TaskPlanner.Domain.Models\\Naborskiy.TaskPlanner.Domain.Models.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      },
+      "SdkAnalysisLevel": "10.0.100"
+    },
+    "frameworks": {
+      "net48": {
+        "targetAlias": "net48",
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.101\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

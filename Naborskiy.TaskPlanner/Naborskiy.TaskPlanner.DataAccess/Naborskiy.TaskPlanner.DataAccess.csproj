@@ -1,0 +1,17 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+	  <TargetFramework>net48</TargetFramework>
+	  <LangVersion>latest</LangVersion>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+	<ItemGroup>
+		<PackageReference Include="Newtonsoft.Json" Version="13.0.3" />
+	</ItemGroup>
+	<ItemGroup>
+		<ProjectReference Include="..\Naborskiy.TaskPlanner.Domain.Models\Naborskiy.TaskPlanner.Domain.Models.csproj" />
+
+		<ProjectReference Include="..\Naborskiy.TaskPlanner.DataAccess.Abstractions\Naborskiy.TaskPlanner.DataAccess.Abstractions.csproj" />
+	</ItemGroup>
+</Project>

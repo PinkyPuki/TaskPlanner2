@@ -1,0 +1,20 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskLabel": "task-Kurinna.TaskPlanner.Domain",
+      "appliesTo": "Kurinna.TaskPlanner.Domain.Logic/",
+      "type": "launch"
+    },
+    {
+      "taskLabel": "task-Kurinna.TaskPlanner.Domain",
+      "appliesTo": "Kurinna.TaskPlanner.Domain.Logic/",
+      "type": "launch"
+    },
+    {
+      "taskLabel": "task-Kurinna.TaskPlanner",
+      "appliesTo": "Kurinna.TaskPlanner.DataAccess/",
+      "type": "launch"
+    }
+  ]
+}

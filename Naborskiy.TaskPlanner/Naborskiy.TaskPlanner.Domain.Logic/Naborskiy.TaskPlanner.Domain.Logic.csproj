@@ -1,0 +1,14 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+	<PropertyGroup>
+		<TargetFramework>net48</TargetFramework>
+		<LangVersion>latest</LangVersion>
+		<Nullable>enable</Nullable>
+	</PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Naborskiy.TaskPlanner.Domain.Models\Naborskiy.TaskPlanner.Domain.Models.csproj" />
+	  <ProjectReference Include="..\Naborskiy.TaskPlanner.DataAccess.Abstractions\Naborskiy.TaskPlanner.DataAccess.Abstractions.csproj" />
+  </ItemGroup>
+
+</Project>

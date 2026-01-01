@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Kozlovskiy.TaskPlanner",
+    "\\Kozlovskiy.TaskPlanner.DataAccess",
+    "\\Kozlovskiy.TaskPlanner.Domain.Logic",
+    "\\Kozlovskiy.TaskPlanner.Domain.Logic.Tests",
+    "\\Kozlovskiy.TaskPlanner.Domain.Models"
+  ],
+  "SelectedNode": "\\Kozlovskiy.TaskPlanner.sln",
+  "PreviewInSolutionExplorer": false
+}

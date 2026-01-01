@@ -1,0 +1,15 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Запустити Naborskiy.TaskPlanner",
+            "type": "clr",
+            "request": "launch",
+            "program": "${workspaceFolder}/Naborskiy.TaskPlanner/bin/Debug/Naborskiy.TaskPlanner.exe",
+            "args": [],
+            "cwd": "${workspaceFolder}/Naborskiy.TaskPlanner",
+            "console": "integratedTerminal",
+            "stopAtEntry": false
+        }
+    ]
+}
